@@ -11,7 +11,7 @@ width="300" height="500"  />
 
 ## Object-Oriented Programming- Android
 
-It's an app to be able to replace a new image and text when we call the button.
+This app practices object-oriented programming. Upon clicking the action button, the image and text changes.
 
 
 
